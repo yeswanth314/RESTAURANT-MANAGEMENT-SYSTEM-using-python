@@ -7,7 +7,7 @@ from tkinter import messagebox
 
 root =Tk()
 root.geometry("1800x770+1+0")
-root.title("DONE BY YESWANTH,DINESH,SRAVAN")
+root.title("DONE BY YESWANTH")
 root.configure(background='green')
 
 Tops = Frame(root,bg='green',bd=20,pady=5,relief=RIDGE)
